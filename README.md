@@ -2,7 +2,7 @@
 
 This template project should be forked by hatch teams. Change the name and fill in your team and project details.
 
-This project was developped during [hatchlondon 2017](http://hatchlondon.io).
+This project was developed during [hatchlondon 2017](http://hatchlondon.io).
 
 ## Team
 Include all memebers of your team for the hack here:
@@ -18,6 +18,4 @@ Describe here which problem you are working on during the event, and what your s
 
 ## Install or run this project
 
-Paste here a link to the project if it is a running website, or some indications on how to use your code for other github user who might be interested. The jury will take a look at what is in this repository during deliberations.
-
-
+Paste here a link to the project if it is a running website, or some indications on how to use your code for other GitHub user who might be interested. The jury will take a look at what is in this repository during deliberations.
