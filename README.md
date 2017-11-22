@@ -5,7 +5,7 @@ This template project should be forked by hatch teams. Change the name and fill 
 This project was developed during [hatchlondon 2017](http://hatchlondon.io).
 
 ## Team
-Include all memebers of your team for the hack here:
+Include all members of your team for the hack here:
 
 * Full Name [github](link to github profile)
 * Full Name [github](link to github profile)
