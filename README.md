@@ -6,7 +6,7 @@ This project was developed during [hatchlondon 2017](http://hatchlondon.io).
 
 ## TODO
 
-Tick items off as you go alone.
+Tick items off as you go along.
 
 - [ ] 1. [Sign up](https://help.github.com/articles/signing-up-for-a-new-github-account/) for a free GitHub account
 - [ ] 2. [Fork](https://help.github.com/articles/fork-a-repo/) this project
