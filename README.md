@@ -29,7 +29,7 @@ From now on it is in your **Forked** repo
 - [ ] 7. Fill in your team members in the **TEAM** section below
 - [ ] 8. Fill in the **PROBLEM AND SOLUTION** section below
 - [ ] 9. Fill in the **INSTALL AND RUN THIS PROJECT** section below
-- [ ] 10. Any *digital / paper* notes you make during the hackathon you MUST add to the **Issue** section in your preo
+- [ ] 10. Any *digital / paper* notes you make during the hackathon you MUST add to the **Issue** section in your repo
 
 *TIP: drag and drop [images / photos](https://help.github.com/articles/file-attachments-on-issues-and-pull-requests/)*
 
