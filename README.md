@@ -4,7 +4,7 @@ This template project should be forked by hatch teams.
 
 This project was developed during [hatchlondon 2017](http://hatchlondon.io).
 
-## TODO
+## Todo
 
 Tick items off as you go along.
 
@@ -12,7 +12,7 @@ Tick items off as you go along.
 - [ ] 2. [Fork](https://help.github.com/articles/fork-a-repo/) this project
 - [ ] 3. Add your forked repo from `step 2` to this [project](https://github.com/SheCanCodeHQ/hatchlondon-2017-projects) as a [Pull Request](https://help.github.com/articles/about-pull-requests/)
 
-### PROJECT SETUP
+### Project setup
 
 From now on it is in your **Forked** repo
 
@@ -33,7 +33,7 @@ From now on it is in your **Forked** repo
 
 *TIP: drag and drop [images / photos](https://help.github.com/articles/file-attachments-on-issues-and-pull-requests/)*
 
-## TEAM
+## Team
 
 Include all members of your team for the hack here:
 
@@ -42,10 +42,10 @@ Include all members of your team for the hack here:
 * Full Name [github](link to github profile)
 * Full Name [github](link to github profile)
 
-## PROBLEM AND SOLUTION
+## Problem and Solution
 
 Describe here which problem you are working on during the event, and what your solution is, succinctly.
 
-## INSTALL AND RUN THIS PROJECT
+## Install and run this project
 
 Paste here a link to the project if it is a running website, or some indications on how to use your code for other GitHub users who might be interested. The jury will take a look at what is in this repository during deliberations.
