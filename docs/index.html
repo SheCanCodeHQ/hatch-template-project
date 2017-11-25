@@ -1,0 +1,111 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title></title>
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.2/css/bootstrap.min.css" integrity="sha384-PsH8R72JQ3SOdhVi3uxftmaW6Vc51MKb0q5P2rRUpPvrszuE4W1povHYgTpBfshb" crossorigin="anonymous">
+<link rel="stylesheet" href="styles.css">
+</head>
+    
+<body>
+    
+<header id="top">
+
+<nav class="navbar navbar-expand-lg navbar-light bg-light">
+  <a class="navbar-brand" href="#">Effective Interventions</a>
+  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
+    <span class="navbar-toggler-icon"></span>
+  </button>
+  <div class="collapse navbar-collapse" id="navbarNavDropdown">
+    <ul class="navbar-nav">
+      <li class="nav-item active">
+        <a class="nav-link" href="#top">Mission <span class="sr-only">(current)</span></a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="https://keats.kcl.ac.uk/my/"
+            target="_blank">How to</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="https://timetables.kcl.ac.uk/KCLSWS/"
+            target="_blank">Contact</a>
+      </li>
+    </ul>
+  </div>
+</nav>
+
+</header>
+
+<main role="main">
+<div class="head-space"></div>
+<main role="main">
+<article role="article">
+
+    <div class="jumbotron row">
+
+        <div class="col-sm-6">
+            <h1 class="display-3">Did your intervention match your expectations?</h1>
+
+            <div id="input-data">
+                <p class="input-text">Select locations or government projects</p>
+
+                <select id="location-selector" class="selectpicker">
+                    <option>London</option>
+                    <option>Croydon</option>
+                    <option>Camden</option>
+                </select>
+
+                <p class="input-text">From:</p>
+
+                <input id="date1" type="date">
+
+                <p class="input-text">To:</p>
+                <input id="date2" type="date">
+
+                <button id='search' type="button" class="btn btn-success">Search</button>
+            </div>
+        </div>
+        <div class="col-sm-6">
+
+            <p class="introduction">We make it easy for people to evaluate their interventions targeting sexual harassment and gender discrimination.</p>
+
+            <p class="introduction">Upload data about your intervention. Download our template <a style="text-decoration: none" href="assets/g">here</a>.</p>
+
+            <p class="introduction">Enter an area to see how serious sexual harassment and gender discrimination is.</p>
+        </div>
+    </div>
+    
+
+<div id="pieChart" style="height: 300px; width: 40%;"></div>    
+<br>
+<div id="barChart" style="height: 300px; width: 100%;"></div>    
+
+<div id="map"></div>
+    
+<!-- Replace the value of the key parameter with your own API key. -->
+<script async defer
+src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBAol_pyeX97HtDEaWpzuK1eyMXxkYBXsI&callback=initMap">
+</script>
+
+</article>
+</main>
+</body>
+
+<footer> 
+   <div class="content-wrap">
+		<h2> Contact info </h2>
+		<div class="contact-info">
+		<a href="mailto:wonjoon.ad@gmail.com">wonjoon.ad@gmail.com</a>
+		<a href="https://github.com/wonjoonSeol">GitHub</a>
+		<a href="https://www.linkedin.com/in/wonjoonseol/">LinkedIn</a>
+		</div>
+		<p>Copyright 2017 by Wonjoon Seol</p>
+	<div class="content-wrap">
+</footer>
+
+<script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.3/umd/popper.min.js" integrity="sha384-vFJXuSJphROIrBnz7yo7oB41mKfc8JzQZiCq4NCceLEaO4IHwicKwpJf9c9IpFgh" crossorigin="anonymous"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.2/js/bootstrap.min.js" integrity="sha384-alpBpkh1PFOepccYVYDB4do5UnbKysX5WZXm3XxPqe5iKTfUKjNkCk9SaVuEZflJ" crossorigin="anonymous"></script>
+<script src="javascript.js"></script>
+<script src="https://canvasjs.com/assets/script/canvasjs.min.js"></script>
+              
+</html>

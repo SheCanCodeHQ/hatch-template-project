@@ -1,0 +1,35 @@
+<!-- Getting the Category, Latitude and Longitude from 2016-1 date -->
+
+<!DOCTYPE html>
+<html>
+
+<head>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+<script>
+$(document).ready(function(){
+  $.ajax({
+    type:"get",
+    url:"https://data.police.uk/api/crimes-street/all-crime?poly=51.5438,-0.1399:51.5016,-0.2133:51.5,-0.0583&date=2016-1",
+    success: function(data){
+    result="";
+
+    for(i in data){	
+
+    	result+="Category: "+data[i].category+"  Latitude: "+data[i].location.latitude+"  Longitude: "+data[i].location.longitude+"<br>";
+    	}
+    	$("#list").html(result);
+    }
+  });
+});
+</script>
+</head>
+
+<body>
+
+<div id="list">
+
+</div>
+
+
+</body>
+</html>

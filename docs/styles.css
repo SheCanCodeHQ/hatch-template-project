@@ -1,0 +1,78 @@
+@import url('https://fonts.googleapis.com/css?family=Josefin+Sans');
+@import url('https://fonts.googleapis.com/css?family=Noto+Sans');
+@import url('https://fonts.googleapis.com/css?family=Lato');
+@import url('https://fonts.googleapis.com/css?family=Cairo');
+@import url('https://fonts.googleapis.com/css?family=Cuprum');
+@import url('https://fonts.googleapis.com/css?family=Montserrat');
+
+
+
+main{
+/*	background-color: #DED8D8;*/
+    background-color: light;
+	}
+
+h1, h2 {
+	font-family: 'Caveat', cursive;
+	font-weight: 400;
+}
+
+footer {
+	text-align: center;
+	background-color: white;
+}
+
+.content-wrap {
+	max-width: 950px;
+	margin: 0 auto;
+	padding: 50px;
+}
+
+.contact-info a {
+	padding: 10px;
+	display: inline-block;
+	color: #EF233C;
+}
+
+.contact-info a:hover {
+	text-decoration: none;
+}
+
+/* Always set the map height explicitly to define the size of the div
+* element that contains the map. */
+ #map {
+   width: 100%;
+   height: 400px;
+   background-color: #bcdeff;
+ }
+/*
+.scrollabletextbox {
+    height:227px;
+	width:280px;
+	overflow:scroll;
+}
+*/
+
+#location-selector {
+	margin: 2% 0 5% 1%;
+}
+
+.display-3 {
+	font-size: 3vw !important;
+	font-family: Cairo;
+}
+
+.introduction {
+	font-family: Lato;
+	font-size: 1.6vw;
+
+}
+
+#input-data {
+	border: solid 1px black;
+	border-radius: 25px;
+}
+
+.input-text,#date1, #date2,#location-selector {
+	margin: 1% 0 1% 5%;
+}
