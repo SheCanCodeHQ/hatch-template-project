@@ -1,7 +1,8 @@
 var map;
 
-alert("I am an alert box!");
-
+function myFunction() {
+    alert("I am an alert box!");
+}
 function initMap() {
   map = new google.maps.Map(document.getElementById('map'), {
     zoom: 2,
