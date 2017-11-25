@@ -116,6 +116,8 @@ var barChart = new CanvasJS.Chart("barChart", {
 	}]
 });
 barChart.render();
+
+
     
 }
 
@@ -128,3 +130,68 @@ function explodePie (e) {
 	e.chart.render();
 
 }
+
+
+
+//executing the search
+
+$(document).ready(function(){
+
+
+	var location = $('#location-selector').find("option:selected").text();
+
+	//getting location when it changes
+    $('#location-selector').change(function () {
+        location = $(this).find("option:selected").text();
+
+        console.log(location);
+    });
+
+
+    var date;
+
+    $("#search").click(function(){
+        //input variables for the search
+        var date1 = $("#date1").val();
+
+        date = date1.substr(0,8);
+
+		console.log(date)
+    });
+
+    var urlString1 = "51.5438,-0.1399";
+    var urlString2 = "51.5016,-0.2133";
+    var urlString3 = "51.5,-0.0583";
+
+/*    $.ajax({
+        type:"get",
+        //avoid hardcoding the URL since we need more options from the Longitude, Latitude and Date
+        url:"https://data.police.uk/api/crimes-street/all-crime?poly="+urlString1+":"+urlString2+":"+urlString3+"&date="+date,
+        success: function(data){
+            result="";
+            for(i in data)
+            {
+                <!-- Specifying the category to only "violent-crime" -->
+                if(data[i].category=="violent-crime")
+                {
+                    result+="Category: "+data[i].category+"  Latitude: "+data[i].location.latitude+"  Longitude: "+data[i].location.longitude+"  Date: "+data[i].month+"<br>";
+                }
+                //$("#list").html(result);
+            }
+        });*/
+
+    var geocoder = new google.maps.Geocoder();
+    var address = 'London, UK';
+
+    if (geocoder) {
+        geocoder.geocode({ 'address': location }, function (results, status) {
+
+            if (status == google.maps.GeocoderStatus.OK) {
+                console.log(results[0].geometry.location);
+            }
+            else {
+                console.log("Geocoding failed: " + status);
+            }
+        });
+    }
+});

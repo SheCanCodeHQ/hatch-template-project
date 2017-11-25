@@ -43,7 +43,7 @@ footer {
  #map {
    width: 100%;
    height: 400px;
-   background-color: grey;
+   background-color: #bcdeff;
  }
 /*
 .scrollabletextbox {
@@ -54,7 +54,7 @@ footer {
 */
 
 #location-selector {
-	margin: 2% 0 5% 20%;
+	margin: 2% 0 5% 1%;
 }
 
 .display-3 {
@@ -66,4 +66,13 @@ footer {
 	font-family: Lato;
 	font-size: 1.6vw;
 
+}
+
+#input-data {
+	border: solid 1px black;
+	border-radius: 25px;
+}
+
+.input-text,#date1, #date2,#location-selector {
+	margin: 1% 0 1% 5%;
 }
