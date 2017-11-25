@@ -1,3 +1,12 @@
+@import url('https://fonts.googleapis.com/css?family=Josefin+Sans');
+@import url('https://fonts.googleapis.com/css?family=Noto+Sans');
+@import url('https://fonts.googleapis.com/css?family=Lato');
+@import url('https://fonts.googleapis.com/css?family=Cairo');
+@import url('https://fonts.googleapis.com/css?family=Cuprum');
+@import url('https://fonts.googleapis.com/css?family=Montserrat');
+
+
+
 main{
 /*	background-color: #DED8D8;*/
     background-color: light;
@@ -43,3 +52,18 @@ footer {
 	overflow:scroll;
 }
 */
+
+#location-selector {
+	margin: 2% 0 5% 20%;
+}
+
+.display-3 {
+	font-size: 3vw !important;
+	font-family: Cairo;
+}
+
+.introduction {
+	font-family: Lato;
+	font-size: 1.6vw;
+
+}
