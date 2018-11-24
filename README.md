@@ -37,13 +37,12 @@ From now on it is in your **Forked** repo
 Include all members of your team for the hack here:
 
 * Natasha [github](link to github profile)
-* Ashly [github](https://github.com/ashlylau)
+* Ashly [(github)](https://github.com/ashlylau)
 * Hamza [github](link to github profile)
 * Alex [github](link to github profile)
 * Faye
 
 ## Problem and Solution
-
 Describe here which problem you are working on during the event, and what your solution is, succinctly.
 
 ## Install and run this project
