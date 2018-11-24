@@ -1,6 +1,5 @@
-# hatch-template-project - replace with your project name
-
-This template project should be forked by hatch teams.
+# hatch-project - Team 2
+## Challenge: Access to Education Among Youths in the UK
 
 This project was developed during [hatchlondon 2017](http://hatchlondon.io).
 
@@ -37,10 +36,11 @@ From now on it is in your **Forked** repo
 
 Include all members of your team for the hack here:
 
-* Full Name [github](link to github profile)
-* Full Name [github](link to github profile)
-* Full Name [github](link to github profile)
-* Full Name [github](link to github profile)
+* Natasha [github](link to github profile)
+* Ashly [github](https://github.com/ashlylau)
+* Hamza [github](link to github profile)
+* Alex [github](link to github profile)
+* Faye
 
 ## Problem and Solution
 
