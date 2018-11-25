@@ -664,6 +664,14 @@ header {
     color: #fff;
 }
 
+.about h4 {
+    -webkit-transition: 0.2s color;
+    transition: 0.2s color;
+}
+
+.about:hover h4 {
+    color: #fff;
+}
 
 /*------------------------------------*\
 	Portfolio
