@@ -22,4 +22,8 @@ Food For Thought brings everyone together and solves all 3 problems at once.
 We are feeding hungry school children by taking unwanted food off businesses, and provide university students access to flexible volunteering opportunities to deliver those food to where it matters.
 
 ## Install and run this project
-View the prototype by opening `Food-For-Thought/index.html` in your browser 
+You can either clone the project and view the prototype by opening `Food-For-Thought/index.html` in your browser.
+
+or 
+
+Access it via https://boon87.github.io/
