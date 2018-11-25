@@ -10,3 +10,4 @@ The app can be found here: [https://pr.to/AIFC4T/](https://pr.to/AIFC4T/). You m
 
 The partially functional app which includes a booking screen & push notifications can be run using the [Expo](https://play.google.com/store/apps/details?id=host.exp.exponent) app. Scan the QR code below to open the app.
 
+![QR](https://raw.githubusercontent.com/MedicusHatch/medicus/master/qr.png)
