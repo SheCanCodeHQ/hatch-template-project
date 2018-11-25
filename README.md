@@ -1,23 +1,24 @@
 # hatch-project - Team 2
 ## Challenge: Access to Education Among Youths in the UK
 
-This project was developed during [hatchlondon 2017](http://hatchlondon.io).
+This project was developed during [hatchlondon 2018](http://hatchlondon.io).
 
 ## Team
-
-Include all members of your team for the hack here:
-
 * Natasha 
-* Ashly [(github)](https://github.com/ashlylau)
+* Ashly ([github](https://github.com/ashlylau))
 * Hamza
 * Alex 
 * Faye
 
 ## Problem and Solution
-Describe here which problem you are working on during the event, and what your solution is, succinctly.
+We aim to improve access to education among lower-income youths in the UK, by connecting them with mentors at various stages of their career. Each youth will be matched with a university student and an industry professional, where they can use our online platform to vhat and provide advice.
+
+We believe that through this support system youths will be able to gain the motivation and support they need to further their education through university.
 
 ## Our Solution: Boss Boost
+Boss Boost is an online platform that matches youths, university students and industry professionals with similar interests and backgrounds, to create a support system for lower-income youths at risk of dropping out of high school. Through this system, we aim to provide mentoring and tutoring sessions, and career advice for youths (and university students) to succeed in and further their studies.
+
 
 ## Install and run this project
 
-Paste here a link to the project if it is a running website, or some indications on how to use your code for other GitHub users who might be interested. The jury will take a look at what is in this repository during deliberations.
+This is our [website](https://ashlylau.github.io/HatchHack-Team2/), we also have a mobile app mockup done in Adobe Xd
