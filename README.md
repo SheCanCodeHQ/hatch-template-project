@@ -2,6 +2,9 @@
 
 ## Team
 
+* [Huey Lee](https://github.com/hueyy/)
+* [Kristina 
+
 ## Problem & Solution
 
 ## Install and run this project
