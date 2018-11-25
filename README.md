@@ -10,6 +10,7 @@
 ## Problem & Solution
 
 **Problem**: Missed GP appointments - a £1 billion problem
+
 **Solution**: A smart booking system that knows when you’re running late (or too far away) and reallocates the appointment to save doctors’ time
 
 ## Install and run this project
