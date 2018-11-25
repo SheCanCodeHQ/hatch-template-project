@@ -260,6 +260,12 @@ input[type="text"]:focus, input[type="email"]:focus, input[type="password"]:focu
 	Logo
 \*------------------------------------*/
 
+.company-logo {
+  max-height: 50px;
+  padding: 5px;
+}
+
+
 .navbar-brand {
     padding: 0;
 }
