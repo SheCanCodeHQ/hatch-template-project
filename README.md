@@ -5,9 +5,6 @@ A concept for connecting food providers with school children in need and student
 This project was developed during [hatchlondon 2018](http://hatchlondon.io).
 
 ## Team
-
-Include all members of your team for the hack here:
-
 * Annika Schmid 
 * Jonathan Xue 
 * Haris Kiani
