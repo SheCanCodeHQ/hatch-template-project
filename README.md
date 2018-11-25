@@ -1,51 +1,27 @@
-# hatch-template-project - replace with your project name
+# hatch-project - Team 2
+## Challenge: Access to Education Among Youths in the UK
 
-This template project should be forked by hatch teams.
-
-This project was developed during [hatchlondon 2017](http://hatchlondon.io).
-
-## Todo
-
-Tick items off as you go along.
-
-- [ ] 1. [Sign up](https://help.github.com/articles/signing-up-for-a-new-github-account/) for a free GitHub account
-- [ ] 2. [Fork](https://help.github.com/articles/fork-a-repo/) this project
-- [ ] 3. Add your forked repo from `step 2` to this [project](https://github.com/SheCanCodeHQ/hatchlondon-2017-projects) as a [Pull Request](https://help.github.com/articles/about-pull-requests/)
-
-### Project setup
-
-From now on it is in your **Forked** repo
-
-- [ ] 4. At the top of your **repo** add a brief project description & link to where it is hosted.
-
-![Repo description and link](https://user-images.githubusercontent.com/624760/33160443-57e86a96-d014-11e7-8488-52592fc69a81.png)
-
-*TIP: [GitHub Pages](https://pages.github.com) gives free static website hosting*
-
-### README changes (this file)
-
-- [ ] 5. Change the name at the top of this file on `line 1`
-- [ ] 6. Under the name of this project put a brief description of the project `line 3` (this can be more detailed than `step 4`)
-- [ ] 7. Fill in your team members in the **TEAM** section below
-- [ ] 8. Fill in the **PROBLEM AND SOLUTION** section below
-- [ ] 9. Fill in the **INSTALL AND RUN THIS PROJECT** section below
-- [ ] 10. Any *digital / paper* notes you make during the hackathon you MUST add to the **Issue** section in your repo
-
-*TIP: drag and drop [images / photos](https://help.github.com/articles/file-attachments-on-issues-and-pull-requests/)*
+This project was developed during [hatchlondon 2018](http://hatchlondon.io).
 
 ## Team
-
-Include all members of your team for the hack here:
-
-* Full Name [github](link to github profile)
-* Full Name [github](link to github profile)
-* Full Name [github](link to github profile)
-* Full Name [github](link to github profile)
+* Natasha 
+* Ashly ([github](https://github.com/ashlylau))
+* Hamza
+* Alex 
+* Faye
 
 ## Problem and Solution
+We aim to improve access to education among lower-income youths in the UK, by connecting them with mentors at various stages of their career. Each youth will be matched with a university student and an industry professional, where they can use our online platform to vhat and provide advice.
 
-Describe here which problem you are working on during the event, and what your solution is, succinctly.
+We believe that through this support system youths will be able to gain the motivation and support they need to further their education through university.
+
+## Our Solution
+
+![](./img/bossboost3.PNG)
+
+Boss Boost is an online platform that matches youths, university students and industry professionals with similar interests and backgrounds, to create a support system for lower-income youths at risk of dropping out of high school. Through this system, we aim to provide mentoring and tutoring sessions, and career advice for youths (and university students) to succeed in and further their studies.
+
 
 ## Install and run this project
 
-Paste here a link to the project if it is a running website, or some indications on how to use your code for other GitHub users who might be interested. The jury will take a look at what is in this repository during deliberations.
+This is our [website](https://ashlylau.github.io/HatchHack-Team2/), we also have a mobile app mockup done in Adobe Xd (wireframe.xd)
