@@ -3,7 +3,9 @@
 ## Team
 
 * [Huey Lee](https://github.com/hueyy/)
-* [Kristina 
+* [Kristina Kordova](https://github.com/KrisstinaKordova)
+* [Darren Ko](https://github.com/darrenslko)
+* [Patrick Pflughaupt](https://github.com/patrickpflughaupt)
 
 ## Problem & Solution
 
